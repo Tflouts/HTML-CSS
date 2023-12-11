@@ -19,7 +19,7 @@
 html, body { 
     background-color: darkgray;
     min-height: 100vh;
-    font-family: var(--fonte1);
+    font-family: var(--fonte1); 
 }
 
 header {
